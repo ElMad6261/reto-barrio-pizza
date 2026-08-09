@@ -11,11 +11,11 @@ Este repositorio no tiene código: es el punto de entrada al proyecto completo. 
 
 | | Link |
 |---|---|
-| 🖥️ Dashboard | `[(https://barrio-pizza-dashboard.vercel.app/)]` |
+| 🖥️ Dashboard | `[https://barrio-pizza-dashboard.vercel.app/]` |
 | ⚙️ API (docs interactivas) | `[PENDIENTE: URL de Render]/docs` |
 | 🎥 Video (3-5 min) | `[PENDIENTE: link de YouTube/Loom]` |
 
-*(Probá los links en una ventana de incógnito antes de compartirlos — la primera carga del backend puede tardar unos segundos si estaba inactivo.)*
+
 
 ---
 
@@ -52,7 +52,7 @@ Backend y frontend son servicios independientes, cada uno con su propio repo y s
 | Repo | Qué contiene |
 |---|---|
 | [`barrio-pizza-alertas`](https://github.com/ElMad6261/barrio-pizza-alertas) | Backend — FastAPI, proyección, motor de alertas, pedido corregido, chat |
-| [`PENDIENTE: nombre real del repo frontend`](#) | Frontend — Next.js, TypeScript, dashboard |
+| [`´barrio-pizza-dashboard`](https://github.com/ElMad6261/barrio-pizza-dashboard) | Frontend — Next.js, TypeScript, dashboard |
 
 ---
 
