@@ -52,7 +52,7 @@ Backend y frontend son servicios independientes, cada uno con su propio repo y s
 | Repo | Qué contiene |
 |---|---|
 | [`barrio-pizza-alertas`](https://github.com/ElMad6261/barrio-pizza-alertas) | Backend — FastAPI, proyección, motor de alertas, pedido corregido, chat |
-| [`´barrio-pizza-dashboard`](https://github.com/ElMad6261/barrio-pizza-dashboard) | Frontend — Next.js, TypeScript, dashboard |
+| [`barrio-pizza-dashboard`](https://github.com/ElMad6261/barrio-pizza-dashboard) | Frontend — Next.js, TypeScript, dashboard |
 
 ---
 
