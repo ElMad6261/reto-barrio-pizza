@@ -99,7 +99,14 @@ Backend y frontend son servicios independientes, cada uno con su propio repo y s
 
 ## Cómo se usó IA para resolverlo
 
-`[PENDIENTE — tu reflexión sobre el proceso: qué partes armaste con ayuda de IA, qué decisiones fueron tuyas, qué aprendiste. Avisame cuando quieras armar un borrador juntos.]`
+`Antes de que llegara el reto ya tenía una idea armada de cómo encarar el proyecto. Para el frontend quería usar React/Next.js, apoyado en componentes de 21st.dev o shadcn/ui — los elegí porque son herramientas que se usan mucho en proyectos reales y son populares (las conocí viendo recomendaciones en Reddit y comunidades similares). Para el backend elegí FastAPI: es simple de usar, el proyecto no iba a ser demasiado extenso, y al ser una herramienta popular tuve menos fricción a la hora de hacer el deployment.
+
+Con el stack ya definido, dividí el trabajo con IA según la parte del proyecto:
+
+Gemini se encargó de todo lo relacionado al frontend: componentes en React/Next.js y la integración de shadcn/ui y 21st.dev.
+Claude se encargó del backend completo (proyección, motor de alertas, pedido corregido, chat) y de la conexión entre backend y frontend — desde el diseño de los endpoints hasta el deployment. También le pedí ayuda para encontrar opciones de hosting gratuitas y confiables para este tipo de proyecto.
+
+La elección de DeepSeek para el chat fue una decisión personal: ya tenía tokens cargados en mi cuenta y decidí aprovecharlos para el proyecto, además de que me daba la tranquilidad de una buena calidad de respuesta.`
 
 
 ## Miguel Arosemena
