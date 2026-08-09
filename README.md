@@ -1,5 +1,4 @@
-# Inventory Intelligence
-
+# Reto Barrio Pizza
 **Sistema de alertas inteligentes de compras para cadenas de restaurantes — caso de uso: Barrio Pizza.**
 
 Proyecta el consumo semanal de insumos por sucursal, detecta cuándo una orden de compra se aleja de lo que realmente hace falta, y propone la corrección lista para reenviar a cada proveedor — sin que nadie tenga que revisar tabla por tabla.
