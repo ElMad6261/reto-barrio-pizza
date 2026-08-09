@@ -9,11 +9,10 @@ Este repositorio no tiene código: es el punto de entrada al proyecto completo. 
 
 ## Demo en vivo
 
-| | Link |
+| Servicio | Link |
 |---|---|
 | 🖥️ **Dashboard** | [Abrir Dashboard](https://barrio-pizza-dashboard.vercel.app/)              |
 | ⚙️ **API (docs interactivas)** | [Abrir Swagger / API Docs](https://barrio-pizza-alertas.onrender.com/docs) |
-
 | 🎥 Video (3-5 min) | `[PENDIENTE: link de YouTube/Loom]` |
 
 
