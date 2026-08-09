@@ -11,8 +11,9 @@ Este repositorio no tiene código: es el punto de entrada al proyecto completo. 
 
 | | Link |
 |---|---|
-| 🖥️ Dashboard | `[https://barrio-pizza-dashboard.vercel.app/]` |
-| ⚙️ API (docs interactivas) | `[PENDIENTE: URL de Render]/docs` |
+| 🖥️ **Dashboard** | [Abrir Dashboard](https://barrio-pizza-dashboard.vercel.app/)              |
+| ⚙️ **API (docs interactivas)** | [Abrir Swagger / API Docs](https://barrio-pizza-alertas.onrender.com/docs) |
+
 | 🎥 Video (3-5 min) | `[PENDIENTE: link de YouTube/Loom]` |
 
 
@@ -79,3 +80,6 @@ Backend y frontend son servicios independientes, cada uno con su propio repo y s
 ## Cómo se usó IA para resolverlo
 
 `[PENDIENTE — tu reflexión sobre el proceso: qué partes armaste con ayuda de IA, qué decisiones fueron tuyas, qué aprendiste. Avisame cuando quieras armar un borrador juntos.]`
+
+
+## Miguel Arosemena
