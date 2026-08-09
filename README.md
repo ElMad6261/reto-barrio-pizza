@@ -58,13 +58,34 @@ Backend y frontend son servicios independientes, cada uno con su propio repo y s
 
 ## Capturas
 
-`[PENDIENTE: screenshot de Alertas]`
+**Resumen**
+![Resumen](<assets/resumen.png>)
 
-`[PENDIENTE: screenshot de Proyecciones]`
+**Alertas**
+![Alertas](<assets/alertas.png>)
 
-`[PENDIENTE: screenshot de Órdenes Corregidas]`
+**Proyecciones**
+![Proyecciones](<assets/proyecciones.png>)
 
-`[PENDIENTE: GIF corto navegando el dashboard]`
+![Proyecciones — detalle](<assets/proyecciones(Zoom).png>)
+
+**Órdenes Corregidas**
+![Órdenes Corregidas](<assets/ordenes.png>)
+
+**Agente de IA**
+![Agente de IA](<assets/agente de ia .png>)
+
+**Configuración**
+![Configuración](<assets/configuración.png>)
+
+**Soporte**
+![Soporte](<assets/soporte.png>)
+
+**Navegando el dashboard**
+![Demo del dashboard](<assets/website.gif>)
+
+**Chat con los datos en acción**
+![Uso del agente de IA](<assets/uso de ia.gif>)
 
 ---
 
