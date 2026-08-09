@@ -11,7 +11,7 @@ Este repositorio no tiene código: es el punto de entrada al proyecto completo. 
 
 | | Link |
 |---|---|
-| 🖥️ Dashboard | `[PENDIENTE: URL de Vercel]` |
+| 🖥️ Dashboard | `[[PENDIENTE: URL de Vercel](https://barrio-pizza-dashboard.vercel.app/)]` |
 | ⚙️ API (docs interactivas) | `[PENDIENTE: URL de Render]/docs` |
 | 🎥 Video (3-5 min) | `[PENDIENTE: link de YouTube/Loom]` |
 
