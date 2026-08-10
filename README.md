@@ -13,7 +13,7 @@ Este repositorio no tiene código: es el punto de entrada al proyecto completo. 
 |---|---|
 | 🖥️ **Dashboard** | [Abrir Dashboard](https://barrio-pizza-dashboard.vercel.app/)              |
 | ⚙️ **API (docs interactivas)** | [Abrir Swagger / API Docs](https://barrio-pizza-alertas.onrender.com/docs) |
-| 🎥 Video (3-5 min) | `[[Link De Youtube](https://www.youtube.com/watch?v=Yndd0A-uDH0)` |
+| 🎥 Video (3-5 min) | [[Link De Youtube](https://www.youtube.com/watch?v=Yndd0A-uDH0) |
 
 
 
